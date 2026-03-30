@@ -28,7 +28,7 @@ O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu cód
 - Referencia os 18 arquivos de rotas e 60+ tabelas para diagnóstico preciso
 - Formato: Resumo → Explicação → Como confirmar → Opções → Oferta de snippet
 
-📄 **Prompt:** [prompts/prompt-ask.md](https://github.com/bielflocos/create-copilot/blob/main/prompts/prompt-ask.md)
+📄 **Prompt:** [prompts/prompt-ask.md]((https://github.com/bielflocos/Copilot-bootcamp/blob/main/prompts/prompt-agent.md))
 
 ---
 
