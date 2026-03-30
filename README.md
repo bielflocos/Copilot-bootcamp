@@ -28,7 +28,6 @@ O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu cód
 - Referencia os 18 arquivos de rotas e 60+ tabelas para diagnóstico preciso
 - Formato: Resumo → Explicação → Como confirmar → Opções → Oferta de snippet
 
-📄 **Prompt:** [prompts/prompt-ask.md]((https://github.com/bielflocos/Copilot-bootcamp/blob/main/prompts/prompt-agent.md))
 
 ---
 
@@ -46,7 +45,6 @@ O modo **Edit/Agent** é o mais autônomo. Ele **navega pelo projeto**, **cria a
 - Conhece os 27 módulos já implementados para não recriar o que existe
 - Gera código pronto para colar, usando os padrões reais (`require`, `getDb`, `createLog`)
 
-📄 **Prompt:** [prompts/prompt-agent.md](https://github.com/bielflocos/create-copilot/blob/main/prompts/prompt-agent.md)
 
 ---
 
@@ -64,7 +62,6 @@ O modo **Plan** produz um **plano de implementação revisável** antes de qualq
 - Mentalidade hospitalar: risco ao paciente, duplicidade, integridade entre módulos
 - Regra rígida: no máximo pseudocódigo e assinaturas — código completo só quando aprovado
 
-📄 **Prompt:** [prompts/prompt-plan.md](https://github.com/bielflocos/create-copilot/blob/main/prompts/prompt-plan.md)
 
 ---
 
@@ -82,7 +79,6 @@ O modo **Study** é focado em **aprendizado ativo**. Funciona como um tutor que 
 - Checkpoints de compreensão após cada explicação
 - Dois exemplos completos de resposta mostrando o tom exato
 
-📄 **Prompt:** [prompts/prompt-study.md](https://github.com/bielflocos/create-copilot/blob/main/prompts/prompt-study.md)
 
 ---
 
